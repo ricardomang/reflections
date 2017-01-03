@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need 
+to do it?
+
+When you initialize a repository it creates a git file, so
+that you can make commits. 
